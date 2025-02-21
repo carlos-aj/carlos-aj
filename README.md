@@ -11,6 +11,7 @@ Hi, I'm Carlos Arana!
 	</a>
 </p>
 
+
 <pre>
 💻 I am a Web Development student with a strong knowledge of building dynamic and scalable applications  
 📚 Currently studying a Higher Degree in Web Development  
