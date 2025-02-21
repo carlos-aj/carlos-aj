@@ -11,6 +11,13 @@ Hi, I'm Carlos Arana!
 	</a>
 </p>
 
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-19-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Granada,%20Spain-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20SEnglish-brightgreen" />
+</p>
+
 
 <pre>
 💻 I am a Web Development student with a strong knowledge of building dynamic and scalable applications  
@@ -21,6 +28,6 @@ Hi, I'm Carlos Arana!
 🌟 Main technologies: JavaScript, PHP, CSS (Bootstrap, Sass)  
 🚀 Also familiar with Java and Object-Oriented Programming principles  
 🚩 Interested in kickstarting my professional career in Web Development  
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="TU_LINK_A_CV" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="TU_LINK_A_CV" target="_blank">MY CV.</a>
 </pre>
 
