@@ -23,7 +23,7 @@ Hi, I'm Carlos Arana!
 💻 I am a Web Development student with a strong knowledge of building dynamic and scalable applications  
 📚 Currently studying a Higher Degree in Web Development  
 📝 Passionate about Artificial Intelligence and Cybersecurity  
-🔭 Working with JavaScript frameworks like Vue, React, and Angular  
+🔭 Working with JavaScript frameworks like Vue, React, and Node  
 🌱 Learning more about backend development with PHP and Laravel  
 🌟 Main technologies: JavaScript, PHP, CSS (Bootstrap, Sass)  
 🚀 Also familiar with Java and Object-Oriented Programming principles  
@@ -65,7 +65,7 @@ Hi, I'm Carlos Arana!
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+    ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+    
