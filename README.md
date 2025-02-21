@@ -15,7 +15,7 @@ Hi, I'm Carlos Arana!
 <img src="https://img.shields.io/badge/Age-19-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Granada,%20Spain-success" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20SEnglish-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
 <br>
 
