@@ -28,7 +28,7 @@ Hi, I'm Carlos Arana!
 🌟 Main technologies: JavaScript, PHP, CSS (Bootstrap, Sass)  
 🚀 Also familiar with Java and Object-Oriented Programming principles  
 🚩 Interested in kickstarting my professional career in Web Development  
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="file:///C:/Users/Carlos/Downloads/CVCarlosAranaJimenez.pdf" target="_blank">MY CV.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="" target="_blank">MY CV.</a>
 </pre>
 <br>
 
